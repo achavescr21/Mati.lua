@@ -21,6 +21,7 @@ local function checkWhitelist(userId)
         or userId == 7367626560
         or userId == 5561169821
         or userId == 7183441935
+        or userId == 3576019090
 end
 
 local function formatNumberShort(value)
